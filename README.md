@@ -34,6 +34,13 @@ Mindset: Consistency + Execution
 </p>
 ## 📊 DEVELOPMENT STATUS <p align="center"> <img src="https://img.shields.io/badge/Focus-AI%20Systems-00F7FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stage-Learning%20%26%20Building-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Goal-System%20Architect-purple?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Consistency-Daily%20Execution-success?style=flat-square" /> <img src="https://img.shields.io/badge/Mindset-Builder-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-Real%20Projects-important?style=flat-square" /> </p>
 
+## 📈 ACTIVITY SIGNAL
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtaleeb086-art&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taleeb_chouhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad taleeb chouhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammedtaleeb086@gmail.com) 
 
