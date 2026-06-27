@@ -1,7 +1,7 @@
-<h1 align="center">⚡ MUHAMMAD TALEEB ⚡</h1>
+<h1 align="center">MUHAMMAD TALEEB </h1> 
 
 <p align="center">
-<b>Data Science Student • AI Learner • Future AI Engineer</b>
+<b>Data Science • AI Learner • Future AI Engineer</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```yaml
 Name: Muhammad Taleeb
-Role: Data Science Student
+Role: Ai Engineer 
 Focus: Machine Learning & AI Systems
 Learning: Deep Learning | NLP | RAG | AI Agents
 Mindset: Consistency + Execution
